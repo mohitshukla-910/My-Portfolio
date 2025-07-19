@@ -9,7 +9,7 @@ const Projects = () => {
     {
       title: 'Fitness Maintainer',
       description: 'A fitness maintainer is a website that helps you maintain your fitness goals. It is a web application that allows you to track your fitness goals and progress.',
-      image: '/images/fitness.jpg',
+      image: '/images/Fitness.jpg',
       tech: ['Html', 'CSS', 'JavaScript'],
     
     },
@@ -23,7 +23,7 @@ const Projects = () => {
     {
       title: 'Medisync  ',
       description: 'A website for the help to the patients to get the best treatment and advise for their diseases.',
-      image: '/images/medisync.jpg',
+      image: '/images/Medisync.jpg',
       tech: ['Html', 'CSS', 'JavaScript'],
       github: 'https://github.com/yourusername/project3',
       live: 'https://project3.com'
